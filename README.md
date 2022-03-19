@@ -617,7 +617,7 @@ printf "\e[1;93m ============================\e[0m\n"
 printf "\e[1;93m 289. Install CoD_Hacks\e[0m\n"
 printf "\e[1;93m ============================\e[0m\n"
 printf "\e[1;93m 290. Install CIA-Hacking-Tools\e[0m\n"
-printf "\e[1;93m ============================\e[0m\n"
+printf "\e[1;93 ============================\e[0m\n"
 printf "\e[1;93m 00. Exit\e[0m\n"
 printf "\e[1;93m ============================\e[0m\n"
 }
